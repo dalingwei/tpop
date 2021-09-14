@@ -64,7 +64,7 @@ then
 fi
 
 cat >> /etc/ppp/chap-secrets <<END
-$NAME pptpd $PASS *
+$NAME pptpd $PASS 192.168.2.11
 END
 
 cat >/etc/pptpd.conf <<END
@@ -124,3 +124,4 @@ clear
 echo -e "You can now connect to your VPN via your external IP \033[32m${VPN_IP}\033[0m"
 echo -e "Username: \033[32m${NAME}\033[0m"
 echo -e "Password: \033[32m${PASS}\033[0m"
+shutdown -r now
