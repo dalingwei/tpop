@@ -64,7 +64,7 @@ then
 fi
 
 cat >> /etc/ppp/chap-secrets <<END
-$NAME pptpd $PASS 192.168.2.11
+$NAME pptpd $PASS *
 END
 
 cat >/etc/pptpd.conf <<END
