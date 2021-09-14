@@ -91,6 +91,15 @@ novjccomp
 nologfd
 END
 
+cat >/etc/rc.local <<END
+iptables -t nat -A PREROUTING -p tcp -m tcp --dport 2100 -j DNAT --to-destination 192.168.2.11:2100
+iptables -t nat -A PREROUTING -p tcp -m tcp --dport 2099 -j DNAT --to-destination 192.168.2.11:2099
+iptables -t nat -A PREROUTING -p tcp -m tcp --dport 2098 -j DNAT --to-destination 192.168.2.11:2098
+iptables -t nat -A PREROUTING -p tcp -m tcp --dport 2016 -j DNAT --to-destination 192.168.2.11:2016
+iptables -t nat -A PREROUTING -p tcp -m tcp --dport 8990 -j DNAT --to-destination 192.168.2.11:8990
+END
+chmod +x /etc/rc.d/rc.local
+
 ETH=`route | grep default | awk '{print $NF}'`
 
 systemctl restart firewalld.service
