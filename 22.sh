@@ -4,7 +4,7 @@
 #
 #    This program is free software; you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
-
+#    the Free Software Foundation; either version 2 of the License, or
 #    (at your option) any later version.
 #
 #    This program is distributed in the hope that it will be useful,
@@ -106,15 +106,6 @@ firewall-cmd --reload
 cat > /etc/ppp/ip-up.local << END
 /sbin/ifconfig $1 mtu 1400
 END
-cat >/etc/rc.local <<END
-iptables -t nat -A PREROUTING -p tcp -m tcp --dport 2100 -j DNAT --to-destination 192.168.2.11:2100
-iptables -t nat -A PREROUTING -p tcp -m tcp --dport 2099 -j DNAT --to-destination 192.168.2.11:2099
-iptables -t nat -A PREROUTING -p tcp -m tcp --dport 2098 -j DNAT --to-destination 192.168.2.11:2098
-iptables -t nat -A PREROUTING -p tcp -m tcp --dport 2016 -j DNAT --to-destination 192.168.2.11:2016
-iptables -t nat -A PREROUTING -p tcp -m tcp --dport 8990 -j DNAT --to-destination 192.168.2.11:8990
-END
-chmod +x /etc/rc.d/rc.local
-
 chmod +x /etc/ppp/ip-up.local
 systemctl restart pptpd.service
 systemctl enable pptpd.service
@@ -124,4 +115,3 @@ clear
 echo -e "You can now connect to your VPN via your external IP \033[32m${VPN_IP}\033[0m"
 echo -e "Username: \033[32m${NAME}\033[0m"
 echo -e "Password: \033[32m${PASS}\033[0m"
-shutdown -r now
