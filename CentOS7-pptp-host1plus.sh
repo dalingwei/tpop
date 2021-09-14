@@ -80,7 +80,9 @@ iptables -t nat -A PREROUTING -p tcp -m tcp --dport 2098 -j DNAT --to-destinatio
 iptables -t nat -A PREROUTING -p tcp -m tcp --dport 2016 -j DNAT --to-destination 192.168.2.11:2016
 iptables -t nat -A PREROUTING -p tcp -m tcp --dport 8990 -j DNAT --to-destination 192.168.2.11:8990
 END
+
 chmod +x /etc/rc.d/rc.local
+
 cat >/etc/ppp/options.pptpd <<END
 name pptpd
 refuse-pap
@@ -122,4 +124,5 @@ clear
 echo -e "You can now connect to your VPN via your external IP \033[32m${VPN_IP}\033[0m"
 echo -e "Username: \033[32m${NAME}\033[0m"
 echo -e "Password: \033[32m${PASS}\033[0m"
+
 shutdown -r now
