@@ -81,25 +81,25 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>VPS/README.md at master · DanylZhang/VPS</title>
+  <title>VPS/Jexus.sh at master · DanylZhang/VPS</title>
     <meta name="description" content="Virtual private server related. Contribute to DanylZhang/VPS development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/bb32dd594242b2b718a8308bbaca0c5bb3426b6f175cdaf2981b520764918b82/DanylZhang/VPS" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="VPS/README.md at master · DanylZhang/VPS" /><meta name="twitter:description" content="Virtual private server related. Contribute to DanylZhang/VPS development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/bb32dd594242b2b718a8308bbaca0c5bb3426b6f175cdaf2981b520764918b82/DanylZhang/VPS" /><meta property="og:image:alt" content="Virtual private server related. Contribute to DanylZhang/VPS development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="VPS/README.md at master · DanylZhang/VPS" /><meta property="og:url" content="https://github.com/DanylZhang/VPS" /><meta property="og:description" content="Virtual private server related. Contribute to DanylZhang/VPS development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/bb32dd594242b2b718a8308bbaca0c5bb3426b6f175cdaf2981b520764918b82/DanylZhang/VPS" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="VPS/Jexus.sh at master · DanylZhang/VPS" /><meta name="twitter:description" content="Virtual private server related. Contribute to DanylZhang/VPS development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/bb32dd594242b2b718a8308bbaca0c5bb3426b6f175cdaf2981b520764918b82/DanylZhang/VPS" /><meta property="og:image:alt" content="Virtual private server related. Contribute to DanylZhang/VPS development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="VPS/Jexus.sh at master · DanylZhang/VPS" /><meta property="og:url" content="https://github.com/DanylZhang/VPS" /><meta property="og:description" content="Virtual private server related. Contribute to DanylZhang/VPS development by creating an account on GitHub." />
 
 
 
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/90707164/ws?session=eyJ2IjoiVjMiLCJ1Ijo5MDcwNzE2NCwicyI6NzUyODUwMjg3LCJjIjoxNDg4NjQ3OTYyLCJ0IjoxNjMxNjM1NDA3fQ==--bda266e8186372477708ecf7a65b3c2cb2624563a45ef094167c61adf501599a" data-refresh-url="/_alive" data-session-id="3545f2100652835f6f2e67d9e5ee3b44d7800632056db4e6a81601c9f9b7d6ac">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/90707164/ws?session=eyJ2IjoiVjMiLCJ1Ijo5MDcwNzE2NCwicyI6NzUyODUwMjg3LCJjIjoxNzE5MzU5MDA2LCJ0IjoxNjMxNjM1NDAyfQ==--ba408e307973275676c3e4a51a18d0d56543cef685cfe9d42ffc001b7a0349d0" data-refresh-url="/_alive" data-session-id="3545f2100652835f6f2e67d9e5ee3b44d7800632056db4e6a81601c9f9b7d6ac">
     <link rel="shared-web-socket-src" href="/socket-worker-ed8d6a1a.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="C8E4:6E50:9FD8ED:B3E1A9:6140C7CA" data-pjax-transient="true" /><meta name="html-safe-nonce" content="a7ae1f60862370afc2091a3e63d92e7910efba0083561c1831c5c3cfcff70466" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9EYW55bFpoYW5nL1ZQUyIsInJlcXVlc3RfaWQiOiJDOEU0OjZFNTA6OUZEOEVEOkIzRTFBOTo2MTQwQzdDQSIsInZpc2l0b3JfaWQiOiI1OTc3OTk4NjY2OTE1NDI3NDY4IiwicmVnaW9uX2VkZ2UiOiJhcC1zb3V0aGVhc3QtMSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="46abd6203b4b9aeced2e49368ecdfdd75872fcea21703b2e86af8005b5f4eaf2" data-pjax-transient="true" />
+  <meta name="request-id" content="C8E4:6E50:9FD82A:B3E0C6:6140C7C4" data-pjax-transient="true" /><meta name="html-safe-nonce" content="a7ae1f60862370afc2091a3e63d92e7910efba0083561c1831c5c3cfcff70466" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9EYW55bFpoYW5nL1ZQUyIsInJlcXVlc3RfaWQiOiJDOEU0OjZFNTA6OUZEODJBOkIzRTBDNjo2MTQwQzdDNCIsInZpc2l0b3JfaWQiOiI1OTc3OTk4NjY2OTE1NDI3NDY4IiwicmVnaW9uX2VkZ2UiOiJhcC1zb3V0aGVhc3QtMSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="8727a0ea14267437de9e37c0ac4d271da47558c8fa703ca699f282c85d06ff7e" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:50580521" data-pjax-transient>
 
@@ -138,7 +138,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="Mzg4MDVhN2QzYjU2MmMwY2U5NGYwYjNmOWViOGI2YmZlNGNmMTA4NzVhNDljNzhmMjQ4ZDM0ZTI3ZTNhOWUwNXx7InJlbW90ZV9hZGRyZXNzIjoiMjAzLjE2MC42OS41NyIsInJlcXVlc3RfaWQiOiJDOEU0OjZFNTA6OUZEOEVEOkIzRTFBOTo2MTQwQzdDQSIsInRpbWVzdGFtcCI6MTYzMTYzNTQwNywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="MTc0ZGY3MzNiZDUzYzJkZmNiMGIyMGQzZWQ2NjE1YmVlMjg2ZDVlYzRjMzQ1NGJhNGM1M2FjZjg5ZjEyNjcxM3x7InJlbW90ZV9hZGRyZXNzIjoiMjAzLjE2MC42OS41NyIsInJlcXVlc3RfaWQiOiJDOEU0OjZFNTA6OUZEODJBOkIzRTBDNjo2MTQwQzdDNCIsInRpbWVzdGFtcCI6MTYzMTYzNTQwMiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="BRANCH_PROTECTION_RULE_WEBHOOK,MARKETPLACE_PENDING_INSTALLATIONS,PJAX_RELOAD_STATS">
 
@@ -155,7 +155,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/DanylZhang/VPS/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/DanylZhang/VPS/blob/master/Jexus.sh" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -197,7 +197,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="56bbaff43484ea0bdfdb1a7c5db3d6ad2d868aa93d66a614047d7892e9905009"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/Jexus.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="0dff69ee82763e1602b3d993f7688bd8677fd2bcec684980ea2f36bd5883d35b"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -247,7 +247,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="S18UliljxJZVavLPc/hlMJgCG+tT/Coslkc//9QKwVnl/6jl0Ie9Kj5cmhUdu3Y8qLF7UTTd3GWWorDHYg5EzA==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="ezhu02S+avkjiG0QQ4jC/ja9/D6DUthw+dZOxOjJ38XVmNKgnVoTRUi+Bcoty9HyBg6chORzLjn5M8H8Xs1aUA==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -427,7 +427,7 @@
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-selected-links="/codespaces /codespaces" href="/codespaces">
       Codespaces
 </a>
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;dalingwei&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="d9663f16216a4f8ea5a924b513a018f328d1bc0f903d6fe25090df6bef87f687" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;dalingwei&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/Jexus.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="8c6b8b7e5be40641bb34b269107f69841282a598611c75341d64b1bd1c11a1d7" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" href="/settings/profile">
       Settings
@@ -436,12 +436,12 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/90707164?s=40&amp;v=4" width="20" height="20" alt="@dalingwei" />
       dalingwei
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YxjH/I6M4HXS54DmoZnYjgVSR//y3va92MVI+Js/oVBIJVJFdfErfVC/egQZ5tFCACsIOEnrofjyP8BMz5Dg/g==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="rCvt/CgjltkkG5a6m6tALSULQb+YSEm352gPo0K5f5+HFnhF015d0aZDbFgj1EnhIHIOeCN9HvLNkocXFhY+MQ==" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
         style="padding-left: 2px;"
-        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="1e11a14ab9b7f48575b2f0a2ba5ae4c2748f1a203b7649d1cddc39ccd9865ebc"
+        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/Jexus.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="0bfd6acb284b17efd716d16dbbf5dfaaecb2ca2c792256e795b8b9572dec913b"
       >
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sign-out v-align-middle">
     <path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path>
@@ -458,7 +458,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="56bbaff43484ea0bdfdb1a7c5db3d6ad2d868aa93d66a614047d7892e9905009"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/Jexus.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="0dff69ee82763e1602b3d993f7688bd8677fd2bcec684980ea2f36bd5883d35b"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -474,7 +474,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTA3MDcxNjQiLCJ0IjoxNjMxNjM1NDA3fQ==--92b92dd5712e6028e5492853d13ea03b76d4f697861658f16b401a4f6161584f">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTA3MDcxNjQiLCJ0IjoxNjMxNjM1NDAyfQ==--d604f56cc1d4c4f4eb09602e911c59ae8e57080610a7f8aa61015db8bd1556cb">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -497,7 +497,7 @@
   <summary
     class="Header-link"
     aria-label="Create new…"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="eb5bda7748b64712020fef43609b676d5da79086d8f5a78ed3acbd71d80d0524"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/Jexus.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="c02b6167928ef2601aefb50668167288cc0e0016e22bb53725a7d7a9951fb046"
   >
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-plus">
     <path fill-rule="evenodd" d="M7.75 2a.75.75 0 01.75.75V7h4.25a.75.75 0 110 1.5H8.5v4.25a.75.75 0 11-1.5 0V8.5H2.75a.75.75 0 010-1.5H7V2.75A.75.75 0 017.75 2z"></path>
@@ -535,7 +535,7 @@
   <summary
     class="Header-link"
     aria-label="View profile and more"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="865c99b34360ca0b3f298e9fcfb12394e20051c1cbf443bfde189e17e2fc754e"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/Jexus.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="eb69292ac1a66851ed209b769cd3fa1e69ea8a7510db98c27c45f8a03b554530"
   >
     <img src="https://avatars.githubusercontent.com/u/90707164?s=60&amp;v=4" alt="@dalingwei" size="20" height="20" width="20" data-view-component="true" class="avatar-user avatar avatar-small"></img>
       <span class="feature-preview-indicator js-feature-preview-indicator" style="top: 1px;" hidden></span>
@@ -651,7 +651,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="267ac60701cd058d82937dd1bbd55bfc3f0e23c3618a14643d155d4bbe257140" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
+      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/Jexus.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="fa0c93c233d7f50024ff85b5ab92fe1fecd26321376fe1ac17a4dda3f6f56e85" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
           <span data-menu-button>
             <span
               hidden
@@ -703,7 +703,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Xlz8qT3IupLulVhLLWiA1qYYLj5FXOF9Iu6DrCIYlQmxHb6tfTd83KGimiAcIuDW/KX2sn23JWJ0ikPaxrT+Lw==" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cLIBIzprOf+uHGD8anMIdPvU0le48qwP49QpDikdZWGf80MnepT/seEropdbOWh0oWkK24AZaBC1sOl4zbEORw==" />
 
                 <input type="hidden" name="repository_id" value="50580521">
 
@@ -826,7 +826,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1NaGNydZZRsFdgNXz3RSglnms6KuqVybrJgApEe/dyM7l8QzZ6ajVUpBwTz+PjKCA1trLpZCmIT6/MDSoxMcBQ==" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="yBCWs0E8H0Xq2l4XvtjWUV836ZLR0fb3Kec+thLAqFwnUdS3AcPZC6XtnHyPkrZRBYoxHuk6Muh/g/7A9mzDeg==" />
 
               <input type="hidden" name="repository_id" value="50580521">
 
@@ -985,9 +985,9 @@
 
   <li>
         <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/DanylZhang/VPS/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="V1IrYKKdyl6493VoEzxE456zgzGXC0tF/+s79cOwONqOMmSXlCUuI4rgRE8B6byioMvvkaa6mwrtmimy838lGw==" />
+    <form class="starred js-social-form" action="/DanylZhang/VPS/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="uoU+Zlut5XdzUl+V9acswA8C2stqrWCbD3dqvsmWMANj5XGRbRUBCkFFbrLnctSBMXq2a1scsNQdBnj5+Vktwg==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar DanylZhang/VPS" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="7f7b29fcd0fead2c5f326546f86ae741479411eb893d22dd8c1bb9fe4c14ae96" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill mr-1">
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar DanylZhang/VPS" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/Jexus.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="532f574a7ae50d4384335495e355c0cc5d026c2dbb20a797e425e398b6a44b8f" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg>
         <span data-view-component="true">
@@ -997,9 +997,9 @@
            106
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/DanylZhang/VPS/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ahyqeshn80q0QL21AnlBaePKwiUusxp6uokL+L5HAklLnlBtAELxjEhVePlHICbJ1yxzfla3lnRAQ66ztH5sKQ==" />
+    <form class="unstarred js-social-form" action="/DanylZhang/VPS/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="KlUrDAupz4Lgo+DCgrTRRAv5u02hjbiTM97SIOf3lbUL19Ebw4zNRBy2JY7H7bbkPx8KFtmJNJ3JFHdr7c771Q==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star DanylZhang/VPS" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="e7fc822d100005cadf7212f85471efa83668691b8a1fe7e2997dbefd3d2a1ff8" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-1">
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star DanylZhang/VPS" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/Jexus.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="c542fd66fcf643395bbace72495ca9ca925c380280a5582db63f96bf7c2312e2" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg>
         <span data-view-component="true">
@@ -1013,8 +1013,8 @@
   </li>
 
   <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/DanylZhang/VPS/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ihDP6l4dZDJ4qXzTi5k1SWZtQB8Z5+WUmzEJXymw0PZsetyDj4QBtMip+M7KXQxbae0lh9puws19QETzg3835Q==" />
-              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="e37efd17e0c92526919be7e3443c1546b56de72e06071bb32ed93bb6487e7460" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of DanylZhang/VPS to your account" aria-label="Fork your own copy of DanylZhang/VPS to your account">                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked">
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/DanylZhang/VPS/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="vj3I2c3av5N1lbl2VkWt9xaeDlmBScpX2sAHmrUDpBdYV9uwHEPaFcWVPWsXgZTlGR5rwULA7Q48sUo2H8xDBA==" />
+              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/Jexus.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="c02d2c06cd0b0d406d0d03a4f9d4b5025572f4cfffad870930139d4bf69b49cd" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of DanylZhang/VPS to your account" aria-label="Fork your own copy of DanylZhang/VPS to your account">                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>
                 Fork
@@ -1192,9 +1192,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/DanylZhang/VPS/blob/326fc9905f17dca522f5deb451e41a7fe7c63663/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/DanylZhang/VPS/blob/326fc9905f17dca522f5deb451e41a7fe7c63663/Jexus.sh">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:c39963a9b99ab58d804b95cc540d24c77b660a5082435d6e8567337367a364ac -->
+    <!-- blob contrib key: blob_contributors:v22:33670830fc12ab9554102b013f93eb5d3da76eb2235f8c0679a1d35008d22c97 -->
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -1279,7 +1279,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/DanylZhang/VPS/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/DanylZhang/VPS/blob/{{ urlEncodedRefName }}/Jexus.sh" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1319,7 +1319,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/DanylZhang/VPS/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/DanylZhang/VPS/blob/{{ urlEncodedRefName }}/Jexus.sh" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1350,7 +1350,7 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/DanylZhang/VPS"><span>VPS</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/DanylZhang/VPS"><span>VPS</span></a></span></span><span class="separator">/</span><strong class="final-path">Jexus.sh</strong>
       </h2>
       <a href="/DanylZhang/VPS/find/master"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -1371,7 +1371,7 @@
 </summary>
   <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="fcc9e8a4863c3dbb7fc9d95d956e3518073d3461d0d39c86b8607e3f95e38f1e" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/DanylZhang/VPS/find/master">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/Jexus.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="3c4bef6f10562e11a867497e485bed9bc830acf3e1a039674ccd348e52661c25" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/DanylZhang/VPS/find/master">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-text-secondary" aria-hidden="true">T</span>
 </a>            </li>
@@ -1389,13 +1389,13 @@
 </button>            </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="Jexus.sh" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 Copy path
 
 </clipboard-copy>            </li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/DanylZhang/VPS/blob/326fc9905f17dca522f5deb451e41a7fe7c63663/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/DanylZhang/VPS/blob/326fc9905f17dca522f5deb451e41a7fe7c63663/Jexus.sh" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
@@ -1410,7 +1410,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/DanylZhang/VPS/contributors/master/README.md" class="commit-loader">
+      <include-fragment src="/DanylZhang/VPS/contributors/master/Jexus.sh" class="commit-loader">
         <div class="Box-header hx_commit-tease d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -1433,67 +1433,33 @@
 
 
 
-    <readme-toc>
-
+  
     <div data-target="readme-toc.content" class="Box mt-3 position-relative
     ">
       
   <div
-    class="Box-header blob-header js-sticky js-position-sticky top-0 p-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
-    style="position: sticky; z-index: 1;"
+    class="Box-header py-2 pr-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
+    
   >
-
-      <details
-  data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}"
-  data-menu-hydro-click-hmac="e42cedc0856cfad6ce0d4cc6d0ef79f58969ef88afa0e4409b98b65b4051512e"
-  class="dropdown details-reset details-overlay"
->
-  <summary
-    class="btn btn-octicon m-0 mr-2 p-2"
-    aria-haspopup="true"
-    aria-label="Table of Contents">
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-list-unordered">
-    <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
-</svg>
-  </summary>
-
-
-  <details-menu class="SelectMenu" role="menu">
-    <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
-
-
-      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 text-emphasized" style="padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="211e48d0cd6e034ec35da2f71ba9932e76375bd0237b6b5660f740d80fff0578" href="#vps">VPS</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 text-emphasized" style="padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="211e48d0cd6e034ec35da2f71ba9932e76375bd0237b6b5660f740d80fff0578" href="#setup-simple-pptp-vpn-server-for-centos-and-ubuntu">Setup Simple PPTP VPN server for CentOS and Ubuntu</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 text-emphasized" style="padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="211e48d0cd6e034ec35da2f71ba9932e76375bd0237b6b5660f740d80fff0578" href="#installation-instructions">INSTALLATION INSTRUCTIONS</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="211e48d0cd6e034ec35da2f71ba9932e76375bd0237b6b5660f740d80fff0578" href="#centos">CentOS</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="211e48d0cd6e034ec35da2f71ba9932e76375bd0237b6b5660f740d80fff0578" href="#ubuntu">Ubuntu</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="211e48d0cd6e034ec35da2f71ba9932e76375bd0237b6b5660f740d80fff0578" href="#centos-7">CentOS 7</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 text-emphasized" style="padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="211e48d0cd6e034ec35da2f71ba9932e76375bd0237b6b5660f740d80fff0578" href="#some-notes">Some notes</a>
-      </div>
-    </div>
-  </details-menu>
-</details>
 
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      58 lines (41 sloc)
+      9 lines (9 sloc)
       <span class="file-info-divider"></span>
-    1.92 KB
+    377 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
 
     <div class="BtnGroup">
-      <a href="/DanylZhang/VPS/raw/master/README.md" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
+      <a href="/DanylZhang/VPS/raw/master/Jexus.sh" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
   
   Raw
   
 
 </a>
-        <a href="/DanylZhang/VPS/blame/master/README.md" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
+        <a href="/DanylZhang/VPS/blame/master/Jexus.sh" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
   
   Blame
   
@@ -1513,7 +1479,7 @@
           </a>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/DanylZhang/VPS/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="dNxIcxKCs472D9fb6+xyAduV+Tc3RUr4MNvJUIkxGAfNxxUbrwWMqRGAWstH2lELoWOQgSQImvkGtGVOyYEFYA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/DanylZhang/VPS/edit/master/Jexus.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Rg7JdQ6P9U1TcJ4AWDVVLesrV4Ot7AL6JmERcuSgfWnWfKG1UajWn/s3ztOc1CTD7iQJUp1BF/QoZFR2yFf5SQ==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit the file in your fork of this project" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -1521,7 +1487,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/DanylZhang/VPS/delete/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="4tlM6Qj+GPYO6CWRLKjm9VFPfSXCGvA1KWA1zmYU/qdl7xNyLkF/QFZZuTO6v4GmAkXqvDvOz6tGtlOhOyGEjg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/DanylZhang/VPS/delete/master/Jexus.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9J5Q97mg6FwKfNVULdlJj+hPIQsd3lDdaHi81kqmzaou9F/+ysdjttzBNBz1bBpAnUd4DljU9qC1qW9JY7YI5Q==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete the file in your fork of this project" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -1533,7 +1499,7 @@
 
     <div class="d-flex hide-lg hide-xl flex-order-2 flex-grow-0">
       <details class="dropdown details-reset details-overlay d-inline-block">
-        <summary class="btn-octicon p-2" aria-haspopup="true" aria-label="possible actions">
+        <summary class="btn-octicon" aria-haspopup="true" aria-label="possible actions">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
     <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
 </svg>
@@ -1549,22 +1515,22 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/DanylZhang/VPS/raw/master/README.md">
+            <a class="dropdown-item" href="/DanylZhang/VPS/raw/master/Jexus.sh">
               View raw
             </a>
           </li>
             <li>
-              <a class="dropdown-item" href="/DanylZhang/VPS/blame/master/README.md">
+              <a class="dropdown-item" href="/DanylZhang/VPS/blame/master/Jexus.sh">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/DanylZhang/VPS/edit/master/README.md">Edit file</a>
+                <a class="dropdown-item" href="/DanylZhang/VPS/edit/master/Jexus.sh">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/DanylZhang/VPS/delete/master/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/DanylZhang/VPS/delete/master/Jexus.sh">Delete file</a>
               </li>
         </ul>
       </details>
@@ -1572,62 +1538,80 @@
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-vps" class="anchor" aria-hidden="true" href="#vps"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>VPS</h1>
-<p>Virtual private server related</p>
-<h1><a id="user-content-setup-simple-pptp-vpn-server-for-centos-and-ubuntu" class="anchor" aria-hidden="true" href="#setup-simple-pptp-vpn-server-for-centos-and-ubuntu"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Setup Simple PPTP VPN server for CentOS and Ubuntu</h1>
-<blockquote>
-<p>NOTE: PPTP VPN is considered insecure. Do not rely for this vpn
-if you need security. However, PPTP works out of the box on many
-operating systems, including many Linux distributions, Windows,
-Mac OS and Android and it's easily good enough for evading country
-level IP blocks.</p>
-</blockquote>
-<p>CentOS-pptp-setup.sh has been tested on <strong>Vultr &amp; Host1plus: CentOS 6 x86</strong></p>
-<p>Ubuntu-pptp-setup.sh has been tested on <strong>Vultr &amp; Host1plus: Ubuntu14.04 x86</strong></p>
-<p>CentOS7-pptp-host1plus.sh is just for <strong>CentOS 7</strong> on <strong>Host1plus &amp; OpenVZ</strong></p>
-<h1><a id="user-content-installation-instructions" class="anchor" aria-hidden="true" href="#installation-instructions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>INSTALLATION INSTRUCTIONS</h1>
-<h2><a id="user-content-centos" class="anchor" aria-hidden="true" href="#centos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><strong>CentOS</strong></h2>
-<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="wget https://raw.githubusercontent.com/DanylZhang/VPS/master/CentOS-pptp-setup.sh
-chmod +x ./CentOS-pptp-setup.sh
-./CentOS-pptp-setup.sh -u your_username -p your_password
-"><pre><code>wget https://raw.githubusercontent.com/DanylZhang/VPS/master/CentOS-pptp-setup.sh
-chmod +x ./CentOS-pptp-setup.sh
-./CentOS-pptp-setup.sh -u your_username -p your_password
-</code></pre></div>
-<h2><a id="user-content-ubuntu" class="anchor" aria-hidden="true" href="#ubuntu"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><strong>Ubuntu</strong></h2>
-<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="wget https://raw.githubusercontent.com/DanylZhang/VPS/master/Ubuntu-pptp-setup.sh
-sudo bash Ubuntu-pptp-setup.sh -u your_username -p your_password
-service pptpd restart
-"><pre><code>wget https://raw.githubusercontent.com/DanylZhang/VPS/master/Ubuntu-pptp-setup.sh
-sudo bash Ubuntu-pptp-setup.sh -u your_username -p your_password
-service pptpd restart
-</code></pre></div>
-<p><em>or</em></p>
-<h2><a id="user-content-centos-7" class="anchor" aria-hidden="true" href="#centos-7"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><strong>CentOS 7</strong></h2>
-<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="wget https://raw.githubusercontent.com/DanylZhang/VPS/master/CentOS7-pptp-host1plus.sh
-chmod +x ./CentOS7-pptp-host1plus.sh
-./CentOS7-pptp-host1plus.sh -u your_username -p your_password
-"><pre><code>wget https://raw.githubusercontent.com/DanylZhang/VPS/master/CentOS7-pptp-host1plus.sh
-chmod +x ./CentOS7-pptp-host1plus.sh
-./CentOS7-pptp-host1plus.sh -u your_username -p your_password
-</code></pre></div>
-<h1><a id="user-content-some-notes" class="anchor" aria-hidden="true" href="#some-notes"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Some notes</h1>
-<p>If your vpn password <strong>less than 8</strong> characters,then give you a random password.</p>
-<p>To add more accounts, see the file /etc/ppp/chap-secrets</p>
-<p>If you keep the vpn server generated with this script on the internet for a
-long time (days or more), consider either restricting access to the ssh port on
-the server by ip addresses to the networks you use, if you know the addresses
-you are most likely to use or at least change ssh from port 22 to a random
-port.</p>
-<p>You can also specify you own username and password, run <code>./CentOS-pptp-setup.sh -h</code>
-<em>or</em> <code>sudo bash Ubuntu-pptp-setup.sh -h</code> for help.</p>
-</article>
+      
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-shell  gist-border-0">
+
+      
+<table class="highlight tab-size js-file-line-container" data-tab-size="8" data-paste-markdown-skip>
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line">yum -y install yum-utils</td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line">rpm --import <span class="pl-s"><span class="pl-pds">&quot;</span>http://keyserver.ubuntu.com/pks/lookup?op=get&amp;search=0x3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line">yum-config-manager --add-repo http://download.mono-project.com/repo/centos/</td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line">yum install mono-complete.x86_64 -y</td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line">wget http://www.linuxdot.net/down/jexus-5.8.1.tar.gz</td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line">tar -zxvf jexus-5.8.1.tar.gz</td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">cd</span>  jexus-5.8.1</td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line">./install</td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">/usr/jexus/jws start</td>
+      </tr>
+</table>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-primary border color-border-tertiary rounded-1" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+    </summary>
+    <details-menu>
+
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
+      style="width:185px"
+      >
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/DanylZhang/VPS/blame/326fc9905f17dca522f5deb451e41a7fe7c63663/Jexus.sh">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/DanylZhang/VPS/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
   </div>
 
     </div>
 
-  </readme-toc>
 
   
 
@@ -1663,10 +1647,10 @@ port.</p>
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 color-text-secondary border-top color-border-secondary ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
       <li class="mr-3 mr-lg-0">&copy; 2021 GitHub, Inc.</li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="63af60fbe6d7b2a90b27af65a1d8079d8ff71fc8b92e5b69240f7df62683d8cd">Terms</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="2a19ca988496c84ed05c75291b5b509c3ab6909dd67cd8eb627791a22516ea07">Privacy</a></li>
-        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="7bca50cb0cb0ee4084642097d78cd2e44e8bc23294f31f97772abdd987f6c1a4" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="cfa826bbb676538f53acde33f7204657b05eca3ccc9cb2bbfe107646a56f54b3">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/Jexus.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="3c73ca85bd0cf76ab4bfcb615fcb7e13f0375e5d45cbf8cee0f3127e1a2b49e9">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/Jexus.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="3d00a0eef16c76f3475677bb8f1087a64a62d3c7f1d8a44a0d87ade02aad3369">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/Jexus.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="1618b973686ace9e9a379214f81ddf89b164dd79edc0c5c45b32bbd1c9dda76c" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/Jexus.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="2d454f85e2e4439bf2cc9d60727478167a7622f1e040638f794da8d25355e08c">Status</a></li>
         <li><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
     </ul>
 
@@ -1676,11 +1660,11 @@ port.</p>
 </svg>
 </a>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="e041120e9696cde8f37dec1a2a1deea5eb1942835e6af7dae2bbb4cc7aeb0aa5">Contact GitHub</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="bd91eda14e9c4bdaa855072247091bcc95a9cf4f2bb8906431d8a96ad8210f59">Pricing</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="19871101343bb9dcf134a8fba6d0346c29fd3fbe2168c1863338739096e8772f">API</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="248dfc20cf1d20debd02e4b6efc3117c16b153b3d44f65f57929b0caea967a41">Training</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="a02acfd980da9e6b7be148a5b721d07634c6ca0dddf233d6bb33fd79032c6529">Blog</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/Jexus.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="1e562073b1266d1e1a152b0733c40fbe324eb1c1099bd68f106054fbb018f079">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/Jexus.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="7a42a048a94ad71a58840e79bbc34cbddc5326e208066a8d013870c78f2696d1">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/Jexus.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="89b21cfc667e8e8c3f999d59767e8deaf3961a0e36d85ed9e7832feb59cbc848">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/Jexus.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="54b95f45dcf1b2878af645f93097c163a123978a15f8bbf569fdd49688e9f23e">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/Jexus.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="0f7b7bfeed27a37d3d0da458b266d69e4d4a6296e183c49f0a01d1c2183f009b">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
     </ul>
   </div>

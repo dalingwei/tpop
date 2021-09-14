@@ -81,25 +81,25 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>VPS/README.md at master · DanylZhang/VPS</title>
+  <title>VPS/CentOS-pptp-setup.sh at master · DanylZhang/VPS</title>
     <meta name="description" content="Virtual private server related. Contribute to DanylZhang/VPS development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/bb32dd594242b2b718a8308bbaca0c5bb3426b6f175cdaf2981b520764918b82/DanylZhang/VPS" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="VPS/README.md at master · DanylZhang/VPS" /><meta name="twitter:description" content="Virtual private server related. Contribute to DanylZhang/VPS development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/bb32dd594242b2b718a8308bbaca0c5bb3426b6f175cdaf2981b520764918b82/DanylZhang/VPS" /><meta property="og:image:alt" content="Virtual private server related. Contribute to DanylZhang/VPS development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="VPS/README.md at master · DanylZhang/VPS" /><meta property="og:url" content="https://github.com/DanylZhang/VPS" /><meta property="og:description" content="Virtual private server related. Contribute to DanylZhang/VPS development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/bb32dd594242b2b718a8308bbaca0c5bb3426b6f175cdaf2981b520764918b82/DanylZhang/VPS" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="VPS/CentOS-pptp-setup.sh at master · DanylZhang/VPS" /><meta name="twitter:description" content="Virtual private server related. Contribute to DanylZhang/VPS development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/bb32dd594242b2b718a8308bbaca0c5bb3426b6f175cdaf2981b520764918b82/DanylZhang/VPS" /><meta property="og:image:alt" content="Virtual private server related. Contribute to DanylZhang/VPS development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="VPS/CentOS-pptp-setup.sh at master · DanylZhang/VPS" /><meta property="og:url" content="https://github.com/DanylZhang/VPS" /><meta property="og:description" content="Virtual private server related. Contribute to DanylZhang/VPS development by creating an account on GitHub." />
 
 
 
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/90707164/ws?session=eyJ2IjoiVjMiLCJ1Ijo5MDcwNzE2NCwicyI6NzUyODUwMjg3LCJjIjoxNDg4NjQ3OTYyLCJ0IjoxNjMxNjM1NDA3fQ==--bda266e8186372477708ecf7a65b3c2cb2624563a45ef094167c61adf501599a" data-refresh-url="/_alive" data-session-id="3545f2100652835f6f2e67d9e5ee3b44d7800632056db4e6a81601c9f9b7d6ac">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/90707164/ws?session=eyJ2IjoiVjMiLCJ1Ijo5MDcwNzE2NCwicyI6NzUyODUwMjg3LCJjIjo5ODE4NzU3NCwidCI6MTYzMTYzNTM4MH0=--5618dc3564207ac8528d2716091a391f47afdca57d63db183880da91306130d4" data-refresh-url="/_alive" data-session-id="3545f2100652835f6f2e67d9e5ee3b44d7800632056db4e6a81601c9f9b7d6ac">
     <link rel="shared-web-socket-src" href="/socket-worker-ed8d6a1a.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="C8E4:6E50:9FD8ED:B3E1A9:6140C7CA" data-pjax-transient="true" /><meta name="html-safe-nonce" content="a7ae1f60862370afc2091a3e63d92e7910efba0083561c1831c5c3cfcff70466" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9EYW55bFpoYW5nL1ZQUyIsInJlcXVlc3RfaWQiOiJDOEU0OjZFNTA6OUZEOEVEOkIzRTFBOTo2MTQwQzdDQSIsInZpc2l0b3JfaWQiOiI1OTc3OTk4NjY2OTE1NDI3NDY4IiwicmVnaW9uX2VkZ2UiOiJhcC1zb3V0aGVhc3QtMSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="46abd6203b4b9aeced2e49368ecdfdd75872fcea21703b2e86af8005b5f4eaf2" data-pjax-transient="true" />
+  <meta name="request-id" content="C8E4:6E50:9FD408:B3DC1B:6140C7AB" data-pjax-transient="true" /><meta name="html-safe-nonce" content="a7ae1f60862370afc2091a3e63d92e7910efba0083561c1831c5c3cfcff70466" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9EYW55bFpoYW5nL1ZQUyIsInJlcXVlc3RfaWQiOiJDOEU0OjZFNTA6OUZENDA4OkIzREMxQjo2MTQwQzdBQiIsInZpc2l0b3JfaWQiOiI1OTc3OTk4NjY2OTE1NDI3NDY4IiwicmVnaW9uX2VkZ2UiOiJhcC1zb3V0aGVhc3QtMSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="25898e4a94d985fc4e9ce6c6fd232b25100b69b1cc1049fb7a1d200172caab8b" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:50580521" data-pjax-transient>
 
@@ -138,7 +138,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="Mzg4MDVhN2QzYjU2MmMwY2U5NGYwYjNmOWViOGI2YmZlNGNmMTA4NzVhNDljNzhmMjQ4ZDM0ZTI3ZTNhOWUwNXx7InJlbW90ZV9hZGRyZXNzIjoiMjAzLjE2MC42OS41NyIsInJlcXVlc3RfaWQiOiJDOEU0OjZFNTA6OUZEOEVEOkIzRTFBOTo2MTQwQzdDQSIsInRpbWVzdGFtcCI6MTYzMTYzNTQwNywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="NTRkNjVmYTRkMDUxZjIwOTRmNDFhYmQ5YTQwYmVmMTc4NzEzZWEyZWZiY2Q4ZjBkYjVmMTFmNGMzNDFkMTUxOXx7InJlbW90ZV9hZGRyZXNzIjoiMjAzLjE2MC42OS41NyIsInJlcXVlc3RfaWQiOiJDOEU0OjZFNTA6OUZENDA4OkIzREMxQjo2MTQwQzdBQiIsInRpbWVzdGFtcCI6MTYzMTYzNTM4MCwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="BRANCH_PROTECTION_RULE_WEBHOOK,MARKETPLACE_PENDING_INSTALLATIONS,PJAX_RELOAD_STATS">
 
@@ -155,7 +155,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/DanylZhang/VPS/blob/master/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/DanylZhang/VPS/blob/master/CentOS-pptp-setup.sh" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -197,7 +197,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="56bbaff43484ea0bdfdb1a7c5db3d6ad2d868aa93d66a614047d7892e9905009"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/CentOS-pptp-setup.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="ab8b45ba111d3ba64907c7f67a167b1ab0d607cae38619db2ddd66f6617340e4"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -247,7 +247,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="S18UliljxJZVavLPc/hlMJgCG+tT/Coslkc//9QKwVnl/6jl0Ie9Kj5cmhUdu3Y8qLF7UTTd3GWWorDHYg5EzA==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="vm1EwI/1m+6VBsz+Y1M20jAjio7KkJoyNjfXVKdngc8QzfizdhHiUv4wpCQNECXeAJDqNK2xbHs20lhsEWMEWg==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -427,7 +427,7 @@
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-selected-links="/codespaces /codespaces" href="/codespaces">
       Codespaces
 </a>
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;dalingwei&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="d9663f16216a4f8ea5a924b513a018f328d1bc0f903d6fe25090df6bef87f687" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;dalingwei&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/CentOS-pptp-setup.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="67b8384fd7afa59f3bd1e5a0917c6c67e9915dbfb15381a92952b5f9758d1fb8" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" href="/settings/profile">
       Settings
@@ -436,12 +436,12 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/90707164?s=40&amp;v=4" width="20" height="20" alt="@dalingwei" />
       dalingwei
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YxjH/I6M4HXS54DmoZnYjgVSR//y3va92MVI+Js/oVBIJVJFdfErfVC/egQZ5tFCACsIOEnrofjyP8BMz5Dg/g==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7eRRvXVy18u57QES6gQFCNX6gonK9s3R1OwDVbTu9tPG2cQEjg8cwzu1+/BSewzE0IPNTnHDmpT+Fovh4EG3fQ==" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
         style="padding-left: 2px;"
-        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="1e11a14ab9b7f48575b2f0a2ba5ae4c2748f1a203b7649d1cddc39ccd9865ebc"
+        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/CentOS-pptp-setup.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="ca46bb34864b46e70f8ee3fbe2a86b01f302b7eceeaa9eede103ec37ec93ff86"
       >
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sign-out v-align-middle">
     <path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path>
@@ -458,7 +458,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="56bbaff43484ea0bdfdb1a7c5db3d6ad2d868aa93d66a614047d7892e9905009"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/CentOS-pptp-setup.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="ab8b45ba111d3ba64907c7f67a167b1ab0d607cae38619db2ddd66f6617340e4"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -474,7 +474,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTA3MDcxNjQiLCJ0IjoxNjMxNjM1NDA3fQ==--92b92dd5712e6028e5492853d13ea03b76d4f697861658f16b401a4f6161584f">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTA3MDcxNjQiLCJ0IjoxNjMxNjM1MzgwfQ==--2699ca348943ef28b58d91d0b6e2ced154b39598d04dd86ac1d844d0d1554db2">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -497,7 +497,7 @@
   <summary
     class="Header-link"
     aria-label="Create new…"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="eb5bda7748b64712020fef43609b676d5da79086d8f5a78ed3acbd71d80d0524"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/CentOS-pptp-setup.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="9dc69bf8c32d8edf603e70bb328a1a6c41094b3a1f982c9815007f5531cc2f58"
   >
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-plus">
     <path fill-rule="evenodd" d="M7.75 2a.75.75 0 01.75.75V7h4.25a.75.75 0 110 1.5H8.5v4.25a.75.75 0 11-1.5 0V8.5H2.75a.75.75 0 010-1.5H7V2.75A.75.75 0 017.75 2z"></path>
@@ -535,7 +535,7 @@
   <summary
     class="Header-link"
     aria-label="View profile and more"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="865c99b34360ca0b3f298e9fcfb12394e20051c1cbf443bfde189e17e2fc754e"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/CentOS-pptp-setup.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="bf0fe0fa51b9b967ac05c844cdc109a9b78ebd55a377ddd38a986d5089ba4930"
   >
     <img src="https://avatars.githubusercontent.com/u/90707164?s=60&amp;v=4" alt="@dalingwei" size="20" height="20" width="20" data-view-component="true" class="avatar-user avatar avatar-small"></img>
       <span class="feature-preview-indicator js-feature-preview-indicator" style="top: 1px;" hidden></span>
@@ -651,7 +651,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="267ac60701cd058d82937dd1bbd55bfc3f0e23c3618a14643d155d4bbe257140" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
+      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/CentOS-pptp-setup.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="e613850430afb9e2b1308d84b6f7e97958de2dfe7a1e1808eb20c90733b0db74" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
           <span data-menu-button>
             <span
               hidden
@@ -703,7 +703,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Xlz8qT3IupLulVhLLWiA1qYYLj5FXOF9Iu6DrCIYlQmxHb6tfTd83KGimiAcIuDW/KX2sn23JWJ0ikPaxrT+Lw==" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BAIS+UEmwjIzWnG0AfZtznX2Scsc9I1mhueu8RXpdSXrQ1D9AdkEfHxts98wvA3OL0uRRyQfSXnQg26H8UUeAw==" />
 
                 <input type="hidden" name="repository_id" value="50580521">
 
@@ -826,7 +826,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1NaGNydZZRsFdgNXz3RSglnms6KuqVybrJgApEe/dyM7l8QzZ6ajVUpBwTz+PjKCA1trLpZCmIT6/MDSoxMcBQ==" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="t8A8Shrw4hluvWmCRQmbKNUDJjdrJs73ZGoO6b8lZ+ZYgX5OWg8kVyGKq+l0Q/soj77+u1PNCugyDs6fW4kMwA==" />
 
               <input type="hidden" name="repository_id" value="50580521">
 
@@ -985,9 +985,9 @@
 
   <li>
         <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/DanylZhang/VPS/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="V1IrYKKdyl6493VoEzxE456zgzGXC0tF/+s79cOwONqOMmSXlCUuI4rgRE8B6byioMvvkaa6mwrtmimy838lGw==" />
+    <form class="starred js-social-form" action="/DanylZhang/VPS/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xz3UNtdognNFw7GLvXr1HRsmEWIjZc97Uu2kPqkxJN8eXZvB4dBmDnfUgKyvrw1cJV59whLUHzRAnLZ5mf45Hg==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar DanylZhang/VPS" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="7f7b29fcd0fead2c5f326546f86ae741479411eb893d22dd8c1bb9fe4c14ae96" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill mr-1">
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar DanylZhang/VPS" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/CentOS-pptp-setup.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="ecc7fb05e4130c5760b3f56a59d2271af007654a6c63b77abdf7e678ef7ceb29" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg>
         <span data-view-component="true">
@@ -997,9 +997,9 @@
            106
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/DanylZhang/VPS/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ahyqeshn80q0QL21AnlBaePKwiUusxp6uokL+L5HAklLnlBtAELxjEhVePlHICbJ1yxzfla3lnRAQ66ztH5sKQ==" />
+    <form class="unstarred js-social-form" action="/DanylZhang/VPS/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="it0v7445k2KZCVlr5REjmPi8T65voveOZDeWLDljC0erX9X4RhyRpGUcnCegSEQ4zFr+9Reme4Ce/TNnM1plJw==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star DanylZhang/VPS" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="e7fc822d100005cadf7212f85471efa83668691b8a1fe7e2997dbefd3d2a1ff8" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-1">
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star DanylZhang/VPS" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/CentOS-pptp-setup.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="53b01b9022601bbadcd2883bcafb7927d8501e6807375977437ced709f9df21e" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg>
         <span data-view-component="true">
@@ -1013,8 +1013,8 @@
   </li>
 
   <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/DanylZhang/VPS/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ihDP6l4dZDJ4qXzTi5k1SWZtQB8Z5+WUmzEJXymw0PZsetyDj4QBtMip+M7KXQxbae0lh9puws19QETzg3835Q==" />
-              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="e37efd17e0c92526919be7e3443c1546b56de72e06071bb32ed93bb6487e7460" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of DanylZhang/VPS to your account" aria-label="Fork your own copy of DanylZhang/VPS to your account">                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked">
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/DanylZhang/VPS/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WLqZvDIOMV5cEvdCR3j2xDZpAQaaon13ns3Y/D0vQrm+0IrV45dU2OwSc18GvM/WOelknlkrWi54vJVQl+Clqg==" />
+              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/CentOS-pptp-setup.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="092de8d548e4d82234c9ae87c87237842115e61ff624c389422a373ff93688e8" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of DanylZhang/VPS to your account" aria-label="Fork your own copy of DanylZhang/VPS to your account">                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>
                 Fork
@@ -1192,9 +1192,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/DanylZhang/VPS/blob/326fc9905f17dca522f5deb451e41a7fe7c63663/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/DanylZhang/VPS/blob/326fc9905f17dca522f5deb451e41a7fe7c63663/CentOS-pptp-setup.sh">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:c39963a9b99ab58d804b95cc540d24c77b660a5082435d6e8567337367a364ac -->
+    <!-- blob contrib key: blob_contributors:v22:2089e0b6cb22cad52b4284572736012e046e7c304d8f9b775df71440b07d0ef5 -->
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -1279,7 +1279,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/DanylZhang/VPS/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/DanylZhang/VPS/blob/{{ urlEncodedRefName }}/CentOS-pptp-setup.sh" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1319,7 +1319,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/DanylZhang/VPS/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/DanylZhang/VPS/blob/{{ urlEncodedRefName }}/CentOS-pptp-setup.sh" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1350,7 +1350,7 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/DanylZhang/VPS"><span>VPS</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/DanylZhang/VPS"><span>VPS</span></a></span></span><span class="separator">/</span><strong class="final-path">CentOS-pptp-setup.sh</strong>
       </h2>
       <a href="/DanylZhang/VPS/find/master"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -1371,7 +1371,7 @@
 </summary>
   <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="fcc9e8a4863c3dbb7fc9d95d956e3518073d3461d0d39c86b8607e3f95e38f1e" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/DanylZhang/VPS/find/master">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/CentOS-pptp-setup.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="65670df5e4082fc5e0bef81033e18359fa1efc60096f49263d01e9f4c8f28361" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/DanylZhang/VPS/find/master">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-text-secondary" aria-hidden="true">T</span>
 </a>            </li>
@@ -1389,13 +1389,13 @@
 </button>            </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="CentOS-pptp-setup.sh" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 Copy path
 
 </clipboard-copy>            </li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/DanylZhang/VPS/blob/326fc9905f17dca522f5deb451e41a7fe7c63663/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/DanylZhang/VPS/blob/326fc9905f17dca522f5deb451e41a7fe7c63663/CentOS-pptp-setup.sh" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
@@ -1410,17 +1410,80 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/DanylZhang/VPS/contributors/master/README.md" class="commit-loader">
-        <div class="Box-header hx_commit-tease d-flex flex-items-center">
-          <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
-          <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
-        </div>
+      
+  <div class="Box-header hx_commit-tease Details js-details-container">
+      <div class="d-flex flex-items-center">
+        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
+          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/DanylZhang/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/DanylZhang"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/16659398?s=48&amp;v=4" width="24" height="24" alt="@DanylZhang" /></a>
+        </span>
+        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
+          <div class="css-truncate css-truncate-overflow">
+            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/DanylZhang/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/DanylZhang">DanylZhang</a>
 
-        <div class="Box-body d-flex flex-items-center" >
-          <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
-          <span class="color-text-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+              <span class="markdown-title">
+                <a data-pjax="true" title="Update CentOS-pptp-setup.sh" class="Link--secondary" href="/DanylZhang/VPS/commit/473eef304a6586dbdf5d4b829723cd4a4c425f51">Update CentOS-pptp-setup.sh</a>
+              </span>
+          </div>
+
+
+          <span class="ml-2">
+            <include-fragment accept="text/fragment+html" src="/DanylZhang/VPS/commit/473eef304a6586dbdf5d4b829723cd4a4c425f51/rollup?direction=e" class="d-inline"></include-fragment>
+          </span>
         </div>
-</include-fragment>    </div>
+        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-text-secondary no-wrap">
+          <span class="d-none d-md-inline">
+            <span>Latest commit</span>
+            <a class="text-small text-mono Link--secondary" href="/DanylZhang/VPS/commit/473eef304a6586dbdf5d4b829723cd4a4c425f51" data-pjax>473eef3</a>
+            <span itemprop="dateModified"><relative-time datetime="2016-02-14T16:36:25Z" class="no-wrap">Feb 15, 2016</relative-time></span>
+          </span>
+
+          <a data-pjax href="/DanylZhang/VPS/commits/master/CentOS-pptp-setup.sh" class="ml-3 no-wrap Link--primary no-underline">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
+    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
+</svg>
+            <span class="d-none d-sm-inline">
+              <strong>History</strong>
+            </span>
+          </a>
+        </div>
+      </div>
+
+  </div>
+
+  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
+    <details class="details-reset details-overlay details-overlay-dark lh-default color-text-primary float-left mr-3" id="blob_contributors_box">
+      <summary class="Link--primary">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
+    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
+</svg>
+        <strong>1</strong>
+        
+        contributor
+      </summary>
+      <details-dialog
+        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+        aria-label="Users who have contributed to this file"
+        src="/DanylZhang/VPS/contributors-list/master/CentOS-pptp-setup.sh" preload>
+        <div class="Box-header">
+          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+          </button>
+          <h3 class="Box-title">
+            Users who have contributed to this file
+          </h3>
+        </div>
+        <include-fragment>
+          <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+        </include-fragment>
+      </details-dialog>
+    </details>
+  </div>
+    </div>
 
 
 
@@ -1433,67 +1496,33 @@
 
 
 
-    <readme-toc>
-
+  
     <div data-target="readme-toc.content" class="Box mt-3 position-relative
     ">
       
   <div
-    class="Box-header blob-header js-sticky js-position-sticky top-0 p-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
-    style="position: sticky; z-index: 1;"
+    class="Box-header py-2 pr-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
+    
   >
-
-      <details
-  data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}"
-  data-menu-hydro-click-hmac="e42cedc0856cfad6ce0d4cc6d0ef79f58969ef88afa0e4409b98b65b4051512e"
-  class="dropdown details-reset details-overlay"
->
-  <summary
-    class="btn btn-octicon m-0 mr-2 p-2"
-    aria-haspopup="true"
-    aria-label="Table of Contents">
-    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-list-unordered">
-    <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
-</svg>
-  </summary>
-
-
-  <details-menu class="SelectMenu" role="menu">
-    <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
-
-
-      <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;">
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 text-emphasized" style="padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="211e48d0cd6e034ec35da2f71ba9932e76375bd0237b6b5660f740d80fff0578" href="#vps">VPS</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 text-emphasized" style="padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="211e48d0cd6e034ec35da2f71ba9932e76375bd0237b6b5660f740d80fff0578" href="#setup-simple-pptp-vpn-server-for-centos-and-ubuntu">Setup Simple PPTP VPN server for CentOS and Ubuntu</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 text-emphasized" style="padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="211e48d0cd6e034ec35da2f71ba9932e76375bd0237b6b5660f740d80fff0578" href="#installation-instructions">INSTALLATION INSTRUCTIONS</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="211e48d0cd6e034ec35da2f71ba9932e76375bd0237b6b5660f740d80fff0578" href="#centos">CentOS</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="211e48d0cd6e034ec35da2f71ba9932e76375bd0237b6b5660f740d80fff0578" href="#ubuntu">Ubuntu</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 " style="padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="211e48d0cd6e034ec35da2f71ba9932e76375bd0237b6b5660f740d80fff0578" href="#centos-7">CentOS 7</a>
-          <a role="menuitem" class="filter-item SelectMenu-item py-1 text-emphasized" style="padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:50580521,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="211e48d0cd6e034ec35da2f71ba9932e76375bd0237b6b5660f740d80fff0578" href="#some-notes">Some notes</a>
-      </div>
-    </div>
-  </details-menu>
-</details>
 
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      58 lines (41 sloc)
+      131 lines (110 sloc)
       <span class="file-info-divider"></span>
-    1.92 KB
+    4.81 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
 
     <div class="BtnGroup">
-      <a href="/DanylZhang/VPS/raw/master/README.md" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
+      <a href="/DanylZhang/VPS/raw/master/CentOS-pptp-setup.sh" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
   
   Raw
   
 
 </a>
-        <a href="/DanylZhang/VPS/blame/master/README.md" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
+        <a href="/DanylZhang/VPS/blame/master/CentOS-pptp-setup.sh" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
   
   Blame
   
@@ -1513,7 +1542,7 @@
           </a>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/DanylZhang/VPS/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="dNxIcxKCs472D9fb6+xyAduV+Tc3RUr4MNvJUIkxGAfNxxUbrwWMqRGAWstH2lELoWOQgSQImvkGtGVOyYEFYA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/DanylZhang/VPS/edit/master/CentOS-pptp-setup.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="0Qyb2aHV1ziNm5s4ndRsSD9e+2Kfn607EBsLOsc9EHC6GM0DiVbAAf+epWgsLKiCkhbIOah+JND+LU2mI6ucPA==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Edit the file in your fork of this project" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -1521,7 +1550,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/DanylZhang/VPS/delete/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="4tlM6Qj+GPYO6CWRLKjm9VFPfSXCGvA1KWA1zmYU/qdl7xNyLkF/QFZZuTO6v4GmAkXqvDvOz6tGtlOhOyGEjg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/DanylZhang/VPS/delete/master/CentOS-pptp-setup.sh" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="AB7chrTBlocXoKdLRncpG+FMBQXwYVMX7DscOrORVUZjYc0M9EIAGOU/+r3eCCev1EQ3m2hT7+f/vB5w9uof3g==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete the file in your fork of this project" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -1533,7 +1562,7 @@
 
     <div class="d-flex hide-lg hide-xl flex-order-2 flex-grow-0">
       <details class="dropdown details-reset details-overlay d-inline-block">
-        <summary class="btn-octicon p-2" aria-haspopup="true" aria-label="possible actions">
+        <summary class="btn-octicon" aria-haspopup="true" aria-label="possible actions">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
     <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
 </svg>
@@ -1549,22 +1578,22 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/DanylZhang/VPS/raw/master/README.md">
+            <a class="dropdown-item" href="/DanylZhang/VPS/raw/master/CentOS-pptp-setup.sh">
               View raw
             </a>
           </li>
             <li>
-              <a class="dropdown-item" href="/DanylZhang/VPS/blame/master/README.md">
+              <a class="dropdown-item" href="/DanylZhang/VPS/blame/master/CentOS-pptp-setup.sh">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/DanylZhang/VPS/edit/master/README.md">Edit file</a>
+                <a class="dropdown-item" href="/DanylZhang/VPS/edit/master/CentOS-pptp-setup.sh">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/DanylZhang/VPS/delete/master/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/DanylZhang/VPS/delete/master/CentOS-pptp-setup.sh">Delete file</a>
               </li>
         </ul>
       </details>
@@ -1572,62 +1601,588 @@
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-vps" class="anchor" aria-hidden="true" href="#vps"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>VPS</h1>
-<p>Virtual private server related</p>
-<h1><a id="user-content-setup-simple-pptp-vpn-server-for-centos-and-ubuntu" class="anchor" aria-hidden="true" href="#setup-simple-pptp-vpn-server-for-centos-and-ubuntu"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Setup Simple PPTP VPN server for CentOS and Ubuntu</h1>
-<blockquote>
-<p>NOTE: PPTP VPN is considered insecure. Do not rely for this vpn
-if you need security. However, PPTP works out of the box on many
-operating systems, including many Linux distributions, Windows,
-Mac OS and Android and it's easily good enough for evading country
-level IP blocks.</p>
-</blockquote>
-<p>CentOS-pptp-setup.sh has been tested on <strong>Vultr &amp; Host1plus: CentOS 6 x86</strong></p>
-<p>Ubuntu-pptp-setup.sh has been tested on <strong>Vultr &amp; Host1plus: Ubuntu14.04 x86</strong></p>
-<p>CentOS7-pptp-host1plus.sh is just for <strong>CentOS 7</strong> on <strong>Host1plus &amp; OpenVZ</strong></p>
-<h1><a id="user-content-installation-instructions" class="anchor" aria-hidden="true" href="#installation-instructions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>INSTALLATION INSTRUCTIONS</h1>
-<h2><a id="user-content-centos" class="anchor" aria-hidden="true" href="#centos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><strong>CentOS</strong></h2>
-<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="wget https://raw.githubusercontent.com/DanylZhang/VPS/master/CentOS-pptp-setup.sh
-chmod +x ./CentOS-pptp-setup.sh
-./CentOS-pptp-setup.sh -u your_username -p your_password
-"><pre><code>wget https://raw.githubusercontent.com/DanylZhang/VPS/master/CentOS-pptp-setup.sh
-chmod +x ./CentOS-pptp-setup.sh
-./CentOS-pptp-setup.sh -u your_username -p your_password
-</code></pre></div>
-<h2><a id="user-content-ubuntu" class="anchor" aria-hidden="true" href="#ubuntu"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><strong>Ubuntu</strong></h2>
-<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="wget https://raw.githubusercontent.com/DanylZhang/VPS/master/Ubuntu-pptp-setup.sh
-sudo bash Ubuntu-pptp-setup.sh -u your_username -p your_password
-service pptpd restart
-"><pre><code>wget https://raw.githubusercontent.com/DanylZhang/VPS/master/Ubuntu-pptp-setup.sh
-sudo bash Ubuntu-pptp-setup.sh -u your_username -p your_password
-service pptpd restart
-</code></pre></div>
-<p><em>or</em></p>
-<h2><a id="user-content-centos-7" class="anchor" aria-hidden="true" href="#centos-7"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><strong>CentOS 7</strong></h2>
-<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="wget https://raw.githubusercontent.com/DanylZhang/VPS/master/CentOS7-pptp-host1plus.sh
-chmod +x ./CentOS7-pptp-host1plus.sh
-./CentOS7-pptp-host1plus.sh -u your_username -p your_password
-"><pre><code>wget https://raw.githubusercontent.com/DanylZhang/VPS/master/CentOS7-pptp-host1plus.sh
-chmod +x ./CentOS7-pptp-host1plus.sh
-./CentOS7-pptp-host1plus.sh -u your_username -p your_password
-</code></pre></div>
-<h1><a id="user-content-some-notes" class="anchor" aria-hidden="true" href="#some-notes"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Some notes</h1>
-<p>If your vpn password <strong>less than 8</strong> characters,then give you a random password.</p>
-<p>To add more accounts, see the file /etc/ppp/chap-secrets</p>
-<p>If you keep the vpn server generated with this script on the internet for a
-long time (days or more), consider either restricting access to the ssh port on
-the server by ip addresses to the networks you use, if you know the addresses
-you are most likely to use or at least change ssh from port 22 to a random
-port.</p>
-<p>You can also specify you own username and password, run <code>./CentOS-pptp-setup.sh -h</code>
-<em>or</em> <code>sudo bash Ubuntu-pptp-setup.sh -h</code> for help.</p>
-</article>
+      
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-shell  gist-border-0">
+
+      
+<table class="highlight tab-size js-file-line-container" data-tab-size="8" data-paste-markdown-skip>
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#!</span>/bin/bash</span></td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>    Setup Simple PPTP VPN server for CentOS</span></td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>    Copyright (C) 2015-2016 Danyl Zhang &lt;1475811550@qq.com&gt; and contributors</span></td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span></span></td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>    This program is free software; you can redistribute it and/or modify</span></td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>    it under the terms of the GNU General Public License as published by</span></td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>    the Free Software Foundation; either version 2 of the License, or</span></td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>    (at your option) any later version.</span></td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span></span></td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>    This program is distributed in the hope that it will be useful,</span></td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>    but WITHOUT ANY WARRANTY; without even the implied warranty of</span></td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the</span></td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>    GNU General Public License for more details.</span></td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class="pl-en">printhelp</span>() {</td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-s">Usage: ./CentOS-pptp-setup.sh [OPTION]</span></td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class="pl-s">If you are using custom password , Make sure its more than 8 characters. Otherwise it will generate random password for you. </span></td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-s">If you trying set password only. It will generate Default user with Random password. </span></td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class="pl-s">example: ./CentOS-pptp-setup.sh -u myusr -p mypass</span></td>
+      </tr>
+      <tr>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class="pl-s">Use without parameter [ ./CentOS-pptp-setup.sh ] to use default username and Random password</span></td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line"><span class="pl-s">  -u,    --username             Enter the Username</span></td>
+      </tr>
+      <tr>
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class="pl-s">  -p,    --password             Enter the Password</span></td>
+      </tr>
+      <tr>
+        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class="pl-s"><span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line">}</td>
+      </tr>
+      <tr>
+        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class="pl-k">while</span> [ <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$1</span><span class="pl-pds">&quot;</span></span> <span class="pl-k">!=</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span> ]<span class="pl-k">;</span> <span class="pl-k">do</span></td>
+      </tr>
+      <tr>
+        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">case</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$1</span><span class="pl-pds">&quot;</span></span> <span class="pl-k">in</span></td>
+      </tr>
+      <tr>
+        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line">    -u    | --username )             NAME=<span class="pl-smi">$2</span><span class="pl-k">;</span> <span class="pl-c1">shift</span> 2 ;;</td>
+      </tr>
+      <tr>
+        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">    -p    | --password )             PASS=<span class="pl-smi">$2</span><span class="pl-k">;</span> <span class="pl-c1">shift</span> 2 ;;</td>
+      </tr>
+      <tr>
+        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">    -h    | --help )            <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-s"><span class="pl-pds">$(</span>printhelp<span class="pl-pds">)</span></span><span class="pl-pds">&quot;</span></span><span class="pl-k">;</span> <span class="pl-c1">exit</span><span class="pl-k">;</span> <span class="pl-c1">shift</span><span class="pl-k">;</span> <span class="pl-c1">break</span> ;;</td>
+      </tr>
+      <tr>
+        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line">  <span class="pl-k">esac</span></td>
+      </tr>
+      <tr>
+        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class="pl-k">done</span></td>
+      </tr>
+      <tr>
+        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span> Check if user is root</span></td>
+      </tr>
+      <tr>
+        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line">[ <span class="pl-s"><span class="pl-pds">$(</span>id -u<span class="pl-pds">)</span></span> <span class="pl-k">!=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>0<span class="pl-pds">&quot;</span></span> ] <span class="pl-k">&amp;&amp;</span> { <span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[31mError: You must be root to run this script\033[0m<span class="pl-pds">&quot;</span></span><span class="pl-k">;</span> <span class="pl-c1">exit</span> 1<span class="pl-k">;</span> } </td>
+      </tr>
+      <tr>
+        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class="pl-k">export</span> PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin</td>
+      </tr>
+      <tr>
+        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line">clear</td>
+      </tr>
+      <tr>
+        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line">[ <span class="pl-k">!</span> <span class="pl-k">-e</span> <span class="pl-s"><span class="pl-pds">&#39;</span>/usr/bin/curl<span class="pl-pds">&#39;</span></span> ] <span class="pl-k">&amp;&amp;</span> yum -y install curl</td>
+      </tr>
+      <tr>
+        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line">VPN_IP=<span class="pl-s"><span class="pl-pds">`</span>curl ipv4.icanhazip.com<span class="pl-pds">`</span></span></td>
+      </tr>
+      <tr>
+        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line">VPN_LOCAL=<span class="pl-s"><span class="pl-pds">&quot;</span>192.168.2.1<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line">VPN_REMOTE=<span class="pl-s"><span class="pl-pds">&quot;</span>192.168.2.10-100<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
+        <td id="LC47" class="blob-code blob-code-inner js-file-line">clear</td>
+      </tr>
+      <tr>
+        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
+        <td id="LC48" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
+        <td id="LC49" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> [ <span class="pl-k">-f</span> /etc/redhat-release <span class="pl-k">-a</span> <span class="pl-k">-n</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-s"><span class="pl-pds">`</span>grep <span class="pl-s"><span class="pl-pds">&#39;</span> 7\.<span class="pl-pds">&#39;</span></span> /etc/redhat-release<span class="pl-pds">`</span></span><span class="pl-pds">&quot;</span></span> ]<span class="pl-k">;</span><span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
+        <td id="LC50" class="blob-code blob-code-inner js-file-line">        <span class="pl-c"><span class="pl-c">#</span>CentOS_REL=7</span></td>
+      </tr>
+      <tr>
+        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
+        <td id="LC51" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">if</span> [ <span class="pl-k">!</span> <span class="pl-k">-e</span> /etc/yum.repos.d/epel.repo ]<span class="pl-k">;</span><span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
+        <td id="LC52" class="blob-code blob-code-inner js-file-line">		cat <span class="pl-k">&gt;</span> /etc/yum.repos.d/epel.repo <span class="pl-s"><span class="pl-k">&lt;&lt;</span> <span class="pl-k">EOF</span></span></td>
+      </tr>
+      <tr>
+        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
+        <td id="LC53" class="blob-code blob-code-inner js-file-line"><span class="pl-s">[epel]</span></td>
+      </tr>
+      <tr>
+        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
+        <td id="LC54" class="blob-code blob-code-inner js-file-line"><span class="pl-s">name=Extra Packages for Enterprise Linux 7 - \$basearch</span></td>
+      </tr>
+      <tr>
+        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
+        <td id="LC55" class="blob-code blob-code-inner js-file-line"><span class="pl-s">#baseurl=http://download.fedoraproject.org/pub/epel/7/\$basearch</span></td>
+      </tr>
+      <tr>
+        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
+        <td id="LC56" class="blob-code blob-code-inner js-file-line"><span class="pl-s">mirrorlist=https://mirrors.fedoraproject.org/metalink?repo=epel-7&amp;arch=\$basearch</span></td>
+      </tr>
+      <tr>
+        <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
+        <td id="LC57" class="blob-code blob-code-inner js-file-line"><span class="pl-s">failovermethod=priority</span></td>
+      </tr>
+      <tr>
+        <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
+        <td id="LC58" class="blob-code blob-code-inner js-file-line"><span class="pl-s">enabled=1</span></td>
+      </tr>
+      <tr>
+        <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
+        <td id="LC59" class="blob-code blob-code-inner js-file-line"><span class="pl-s">gpgcheck=0</span></td>
+      </tr>
+      <tr>
+        <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
+        <td id="LC60" class="blob-code blob-code-inner js-file-line"><span class="pl-s"></span></td>
+      </tr>
+      <tr>
+        <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
+        <td id="LC61" class="blob-code blob-code-inner js-file-line"><span class="pl-s"><span class="pl-k">EOF</span></span></td>
+      </tr>
+      <tr>
+        <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
+        <td id="LC62" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
+        <td id="LC63" class="blob-code blob-code-inner js-file-line"><span class="pl-k">fi</span></td>
+      </tr>
+      <tr>
+        <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
+        <td id="LC64" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">for</span> <span class="pl-smi">Package</span> <span class="pl-k">in</span> wget make openssl gcc-c++ ppp pptpd iptables iptables-services </td>
+      </tr>
+      <tr>
+        <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
+        <td id="LC65" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">do</span></td>
+      </tr>
+      <tr>
+        <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
+        <td id="LC66" class="blob-code blob-code-inner js-file-line">                yum -y install <span class="pl-smi">$Package</span></td>
+      </tr>
+      <tr>
+        <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
+        <td id="LC67" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">done</span></td>
+      </tr>
+      <tr>
+        <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
+        <td id="LC68" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&#39;</span>net.ipv4.ip_forward = 1<span class="pl-pds">&#39;</span></span> <span class="pl-k">&gt;&gt;</span> /etc/sysctl.conf</td>
+      </tr>
+      <tr>
+        <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
+        <td id="LC69" class="blob-code blob-code-inner js-file-line"><span class="pl-k">elif</span> [ <span class="pl-k">-f</span> /etc/redhat-release <span class="pl-k">-a</span> <span class="pl-k">-n</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-s"><span class="pl-pds">`</span>grep <span class="pl-s"><span class="pl-pds">&#39;</span> 6\.<span class="pl-pds">&#39;</span></span> /etc/redhat-release<span class="pl-pds">`</span></span><span class="pl-pds">&quot;</span></span> ]<span class="pl-k">;</span><span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
+        <td id="LC70" class="blob-code blob-code-inner js-file-line">        <span class="pl-c"><span class="pl-c">#</span>CentOS_REL=6</span></td>
+      </tr>
+      <tr>
+        <td id="L71" class="blob-num js-line-number" data-line-number="71"></td>
+        <td id="LC71" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">for</span> <span class="pl-smi">Package</span> <span class="pl-k">in</span> wget make openssl gcc-c++ iptables ppp </td>
+      </tr>
+      <tr>
+        <td id="L72" class="blob-num js-line-number" data-line-number="72"></td>
+        <td id="LC72" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">do</span></td>
+      </tr>
+      <tr>
+        <td id="L73" class="blob-num js-line-number" data-line-number="73"></td>
+        <td id="LC73" class="blob-code blob-code-inner js-file-line">                yum -y install <span class="pl-smi">$Package</span></td>
+      </tr>
+      <tr>
+        <td id="L74" class="blob-num js-line-number" data-line-number="74"></td>
+        <td id="LC74" class="blob-code blob-code-inner js-file-line">        <span class="pl-k">done</span></td>
+      </tr>
+      <tr>
+        <td id="L75" class="blob-num js-line-number" data-line-number="75"></td>
+        <td id="LC75" class="blob-code blob-code-inner js-file-line">	sed -i <span class="pl-s"><span class="pl-pds">&#39;</span>s@net.ipv4.ip_forward.*@net.ipv4.ip_forward = 1@g<span class="pl-pds">&#39;</span></span> /etc/sysctl.conf</td>
+      </tr>
+      <tr>
+        <td id="L76" class="blob-num js-line-number" data-line-number="76"></td>
+        <td id="LC76" class="blob-code blob-code-inner js-file-line">	rpm -Uvh http://poptop.sourceforge.net/yum/stable/rhel6/pptp-release-current.noarch.rpm</td>
+      </tr>
+      <tr>
+        <td id="L77" class="blob-num js-line-number" data-line-number="77"></td>
+        <td id="LC77" class="blob-code blob-code-inner js-file-line">	yum -y install pptpd</td>
+      </tr>
+      <tr>
+        <td id="L78" class="blob-num js-line-number" data-line-number="78"></td>
+        <td id="LC78" class="blob-code blob-code-inner js-file-line"><span class="pl-k">else</span></td>
+      </tr>
+      <tr>
+        <td id="L79" class="blob-num js-line-number" data-line-number="79"></td>
+        <td id="LC79" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>\033[31mDoes not support this OS, Please contact the author! \033[0m<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L80" class="blob-num js-line-number" data-line-number="80"></td>
+        <td id="LC80" class="blob-code blob-code-inner js-file-line">        <span class="pl-c1">exit</span> 1</td>
+      </tr>
+      <tr>
+        <td id="L81" class="blob-num js-line-number" data-line-number="81"></td>
+        <td id="LC81" class="blob-code blob-code-inner js-file-line"><span class="pl-k">fi</span></td>
+      </tr>
+      <tr>
+        <td id="L82" class="blob-num js-line-number" data-line-number="82"></td>
+        <td id="LC82" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L83" class="blob-num js-line-number" data-line-number="83"></td>
+        <td id="LC83" class="blob-code blob-code-inner js-file-line">sysctl -p</td>
+      </tr>
+      <tr>
+        <td id="L84" class="blob-num js-line-number" data-line-number="84"></td>
+        <td id="LC84" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L85" class="blob-num js-line-number" data-line-number="85"></td>
+        <td id="LC85" class="blob-code blob-code-inner js-file-line">[ <span class="pl-k">-z</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-s"><span class="pl-pds">`</span>grep <span class="pl-s"><span class="pl-pds">&#39;</span>^localip<span class="pl-pds">&#39;</span></span> /etc/pptpd.conf<span class="pl-pds">`</span></span><span class="pl-pds">&quot;</span></span> ] <span class="pl-k">&amp;&amp;</span> <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>localip <span class="pl-smi">$VPN_LOCAL</span><span class="pl-pds">&quot;</span></span> <span class="pl-k">&gt;&gt;</span> /etc/pptpd.conf <span class="pl-c"><span class="pl-c">#</span> Local IP address of your VPN server</span></td>
+      </tr>
+      <tr>
+        <td id="L86" class="blob-num js-line-number" data-line-number="86"></td>
+        <td id="LC86" class="blob-code blob-code-inner js-file-line">[ <span class="pl-k">-z</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-s"><span class="pl-pds">`</span>grep <span class="pl-s"><span class="pl-pds">&#39;</span>^remoteip<span class="pl-pds">&#39;</span></span> /etc/pptpd.conf<span class="pl-pds">`</span></span><span class="pl-pds">&quot;</span></span> ] <span class="pl-k">&amp;&amp;</span> <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>remoteip <span class="pl-smi">$VPN_REMOTE</span><span class="pl-pds">&quot;</span></span> <span class="pl-k">&gt;&gt;</span> /etc/pptpd.conf <span class="pl-c"><span class="pl-c">#</span> Scope for your home network</span></td>
+      </tr>
+      <tr>
+        <td id="L87" class="blob-num js-line-number" data-line-number="87"></td>
+        <td id="LC87" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L88" class="blob-num js-line-number" data-line-number="88"></td>
+        <td id="LC88" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> [ <span class="pl-k">-z</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-s"><span class="pl-pds">`</span>grep <span class="pl-s"><span class="pl-pds">&#39;</span>^ms-dns<span class="pl-pds">&#39;</span></span> /etc/ppp/options.pptpd<span class="pl-pds">`</span></span><span class="pl-pds">&quot;</span></span> ]<span class="pl-k">;</span><span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L89" class="blob-num js-line-number" data-line-number="89"></td>
+        <td id="LC89" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>ms-dns 8.8.8.8<span class="pl-pds">&quot;</span></span> <span class="pl-k">&gt;&gt;</span> /etc/ppp/options.pptpd</td>
+      </tr>
+      <tr>
+        <td id="L90" class="blob-num js-line-number" data-line-number="90"></td>
+        <td id="LC90" class="blob-code blob-code-inner js-file-line">	<span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>ms-dns 209.244.0.3<span class="pl-pds">&quot;</span></span> <span class="pl-k">&gt;&gt;</span> /etc/ppp/options.pptpd</td>
+      </tr>
+      <tr>
+        <td id="L91" class="blob-num js-line-number" data-line-number="91"></td>
+        <td id="LC91" class="blob-code blob-code-inner js-file-line"><span class="pl-k">fi</span></td>
+      </tr>
+      <tr>
+        <td id="L92" class="blob-num js-line-number" data-line-number="92"></td>
+        <td id="LC92" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L93" class="blob-num js-line-number" data-line-number="93"></td>
+        <td id="LC93" class="blob-code blob-code-inner js-file-line"><span class="pl-c"><span class="pl-c">#</span>no liI10oO chars in password</span></td>
+      </tr>
+      <tr>
+        <td id="L94" class="blob-num js-line-number" data-line-number="94"></td>
+        <td id="LC94" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L95" class="blob-num js-line-number" data-line-number="95"></td>
+        <td id="LC95" class="blob-code blob-code-inner js-file-line">LEN=<span class="pl-s"><span class="pl-pds">$(</span>echo <span class="pl-smi">${<span class="pl-k">#</span>PASS}</span><span class="pl-pds">)</span></span></td>
+      </tr>
+      <tr>
+        <td id="L96" class="blob-num js-line-number" data-line-number="96"></td>
+        <td id="LC96" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L97" class="blob-num js-line-number" data-line-number="97"></td>
+        <td id="LC97" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> [ <span class="pl-k">-z</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$PASS</span><span class="pl-pds">&quot;</span></span> ] <span class="pl-k">||</span> [ <span class="pl-smi">$LEN</span> <span class="pl-k">-lt</span> 8 ] <span class="pl-k">||</span> [ <span class="pl-k">-z</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$NAME</span><span class="pl-pds">&quot;</span></span>]</td>
+      </tr>
+      <tr>
+        <td id="L98" class="blob-num js-line-number" data-line-number="98"></td>
+        <td id="LC98" class="blob-code blob-code-inner js-file-line"><span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L99" class="blob-num js-line-number" data-line-number="99"></td>
+        <td id="LC99" class="blob-code blob-code-inner js-file-line">   P1=<span class="pl-s"><span class="pl-pds">`</span>cat /dev/urandom <span class="pl-k">|</span> tr -cd abcdefghjkmnpqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ23456789 <span class="pl-k">|</span> head -c 3<span class="pl-pds">`</span></span></td>
+      </tr>
+      <tr>
+        <td id="L100" class="blob-num js-line-number" data-line-number="100"></td>
+        <td id="LC100" class="blob-code blob-code-inner js-file-line">   P2=<span class="pl-s"><span class="pl-pds">`</span>cat /dev/urandom <span class="pl-k">|</span> tr -cd abcdefghjkmnpqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ23456789 <span class="pl-k">|</span> head -c 3<span class="pl-pds">`</span></span></td>
+      </tr>
+      <tr>
+        <td id="L101" class="blob-num js-line-number" data-line-number="101"></td>
+        <td id="LC101" class="blob-code blob-code-inner js-file-line">   P3=<span class="pl-s"><span class="pl-pds">`</span>cat /dev/urandom <span class="pl-k">|</span> tr -cd abcdefghjkmnpqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ23456789 <span class="pl-k">|</span> head -c 3<span class="pl-pds">`</span></span></td>
+      </tr>
+      <tr>
+        <td id="L102" class="blob-num js-line-number" data-line-number="102"></td>
+        <td id="LC102" class="blob-code blob-code-inner js-file-line">   PASS=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$P1</span>-<span class="pl-smi">$P2</span>-<span class="pl-smi">$P3</span><span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L103" class="blob-num js-line-number" data-line-number="103"></td>
+        <td id="LC103" class="blob-code blob-code-inner js-file-line"><span class="pl-k">fi</span></td>
+      </tr>
+      <tr>
+        <td id="L104" class="blob-num js-line-number" data-line-number="104"></td>
+        <td id="LC104" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L105" class="blob-num js-line-number" data-line-number="105"></td>
+        <td id="LC105" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> [ <span class="pl-k">-z</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$NAME</span><span class="pl-pds">&quot;</span></span> ]</td>
+      </tr>
+      <tr>
+        <td id="L106" class="blob-num js-line-number" data-line-number="106"></td>
+        <td id="LC106" class="blob-code blob-code-inner js-file-line"><span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L107" class="blob-num js-line-number" data-line-number="107"></td>
+        <td id="LC107" class="blob-code blob-code-inner js-file-line">   NAME=<span class="pl-s"><span class="pl-pds">&quot;</span>vpn<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L108" class="blob-num js-line-number" data-line-number="108"></td>
+        <td id="LC108" class="blob-code blob-code-inner js-file-line"><span class="pl-k">fi</span></td>
+      </tr>
+      <tr>
+        <td id="L109" class="blob-num js-line-number" data-line-number="109"></td>
+        <td id="LC109" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L110" class="blob-num js-line-number" data-line-number="110"></td>
+        <td id="LC110" class="blob-code blob-code-inner js-file-line">cat <span class="pl-k">&gt;&gt;</span> /etc/ppp/chap-secrets <span class="pl-s"><span class="pl-k">&lt;&lt;</span><span class="pl-k">END</span></span></td>
+      </tr>
+      <tr>
+        <td id="L111" class="blob-num js-line-number" data-line-number="111"></td>
+        <td id="LC111" class="blob-code blob-code-inner js-file-line"><span class="pl-s">$NAME pptpd $PASS *</span></td>
+      </tr>
+      <tr>
+        <td id="L112" class="blob-num js-line-number" data-line-number="112"></td>
+        <td id="LC112" class="blob-code blob-code-inner js-file-line"><span class="pl-s"><span class="pl-k">END</span></span></td>
+      </tr>
+      <tr>
+        <td id="L113" class="blob-num js-line-number" data-line-number="113"></td>
+        <td id="LC113" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L114" class="blob-num js-line-number" data-line-number="114"></td>
+        <td id="LC114" class="blob-code blob-code-inner js-file-line">ETH=<span class="pl-s"><span class="pl-pds">`</span>route <span class="pl-k">|</span> grep default <span class="pl-k">|</span> awk <span class="pl-s"><span class="pl-pds">&#39;</span>{print $NF}<span class="pl-pds">&#39;</span></span><span class="pl-pds">`</span></span></td>
+      </tr>
+      <tr>
+        <td id="L115" class="blob-num js-line-number" data-line-number="115"></td>
+        <td id="LC115" class="blob-code blob-code-inner js-file-line">[ <span class="pl-k">-z</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-s"><span class="pl-pds">`</span>grep <span class="pl-s"><span class="pl-pds">&#39;</span>1723 -j ACCEPT<span class="pl-pds">&#39;</span></span> /etc/sysconfig/iptables<span class="pl-pds">`</span></span><span class="pl-pds">&quot;</span></span> ] <span class="pl-k">&amp;&amp;</span> iptables -I INPUT 4 -p tcp -m state --state NEW -m tcp --dport 1723 -j ACCEPT</td>
+      </tr>
+      <tr>
+        <td id="L116" class="blob-num js-line-number" data-line-number="116"></td>
+        <td id="LC116" class="blob-code blob-code-inner js-file-line">[ <span class="pl-k">-z</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-s"><span class="pl-pds">`</span>grep <span class="pl-s"><span class="pl-pds">&#39;</span>gre -j ACCEPT<span class="pl-pds">&#39;</span></span> /etc/sysconfig/iptables<span class="pl-pds">`</span></span><span class="pl-pds">&quot;</span></span> ] <span class="pl-k">&amp;&amp;</span> iptables -I INPUT 5 -p gre -j ACCEPT </td>
+      </tr>
+      <tr>
+        <td id="L117" class="blob-num js-line-number" data-line-number="117"></td>
+        <td id="LC117" class="blob-code blob-code-inner js-file-line">iptables -t nat -A POSTROUTING -o <span class="pl-smi">$ETH</span> -j MASQUERADE</td>
+      </tr>
+      <tr>
+        <td id="L118" class="blob-num js-line-number" data-line-number="118"></td>
+        <td id="LC118" class="blob-code blob-code-inner js-file-line">iptables -I FORWARD -p tcp --syn -i ppp+ -j TCPMSS --set-mss 1356</td>
+      </tr>
+      <tr>
+        <td id="L119" class="blob-num js-line-number" data-line-number="119"></td>
+        <td id="LC119" class="blob-code blob-code-inner js-file-line">service iptables save</td>
+      </tr>
+      <tr>
+        <td id="L120" class="blob-num js-line-number" data-line-number="120"></td>
+        <td id="LC120" class="blob-code blob-code-inner js-file-line">sed -i <span class="pl-s"><span class="pl-pds">&#39;</span>s@^-A INPUT -j REJECT --reject-with icmp-host-prohibited@#-A INPUT -j REJECT --reject-with icmp-host-prohibited@<span class="pl-pds">&#39;</span></span> /etc/sysconfig/iptables </td>
+      </tr>
+      <tr>
+        <td id="L121" class="blob-num js-line-number" data-line-number="121"></td>
+        <td id="LC121" class="blob-code blob-code-inner js-file-line">sed -i <span class="pl-s"><span class="pl-pds">&#39;</span>s@^-A FORWARD -j REJECT --reject-with icmp-host-prohibited@#-A FORWARD -j REJECT --reject-with icmp-host-prohibited@<span class="pl-pds">&#39;</span></span> /etc/sysconfig/iptables </td>
+      </tr>
+      <tr>
+        <td id="L122" class="blob-num js-line-number" data-line-number="122"></td>
+        <td id="LC122" class="blob-code blob-code-inner js-file-line">service iptables restart</td>
+      </tr>
+      <tr>
+        <td id="L123" class="blob-num js-line-number" data-line-number="123"></td>
+        <td id="LC123" class="blob-code blob-code-inner js-file-line">chkconfig iptables on</td>
+      </tr>
+      <tr>
+        <td id="L124" class="blob-num js-line-number" data-line-number="124"></td>
+        <td id="LC124" class="blob-code blob-code-inner js-file-line">service pptpd restart</td>
+      </tr>
+      <tr>
+        <td id="L125" class="blob-num js-line-number" data-line-number="125"></td>
+        <td id="LC125" class="blob-code blob-code-inner js-file-line">chkconfig pptpd on</td>
+      </tr>
+      <tr>
+        <td id="L126" class="blob-num js-line-number" data-line-number="126"></td>
+        <td id="LC126" class="blob-code blob-code-inner js-file-line">clear</td>
+      </tr>
+      <tr>
+        <td id="L127" class="blob-num js-line-number" data-line-number="127"></td>
+        <td id="LC127" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L128" class="blob-num js-line-number" data-line-number="128"></td>
+        <td id="LC128" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>You can now connect to your VPN via your external IP \033[32m<span class="pl-smi">${VPN_IP}</span>\033[0m<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L129" class="blob-num js-line-number" data-line-number="129"></td>
+        <td id="LC129" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L130" class="blob-num js-line-number" data-line-number="130"></td>
+        <td id="LC130" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>Username: \033[32m<span class="pl-smi">${NAME}</span>\033[0m<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L131" class="blob-num js-line-number" data-line-number="131"></td>
+        <td id="LC131" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> -e <span class="pl-s"><span class="pl-pds">&quot;</span>Password: \033[32m<span class="pl-smi">${PASS}</span>\033[0m<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+</table>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-primary border color-border-tertiary rounded-1" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+    </summary>
+    <details-menu>
+
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
+      style="width:185px"
+      >
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/DanylZhang/VPS/blame/326fc9905f17dca522f5deb451e41a7fe7c63663/CentOS-pptp-setup.sh">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/DanylZhang/VPS/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
   </div>
 
     </div>
 
-  </readme-toc>
 
   
 
@@ -1663,10 +2218,10 @@ port.</p>
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 color-text-secondary border-top color-border-secondary ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
       <li class="mr-3 mr-lg-0">&copy; 2021 GitHub, Inc.</li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="63af60fbe6d7b2a90b27af65a1d8079d8ff71fc8b92e5b69240f7df62683d8cd">Terms</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="2a19ca988496c84ed05c75291b5b509c3ab6909dd67cd8eb627791a22516ea07">Privacy</a></li>
-        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="7bca50cb0cb0ee4084642097d78cd2e44e8bc23294f31f97772abdd987f6c1a4" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="cfa826bbb676538f53acde33f7204657b05eca3ccc9cb2bbfe107646a56f54b3">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/CentOS-pptp-setup.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="fbe13a2ef6d906212fcfefba16225adcdf037f2d8ee71bb981561ffc9e9c5bf7">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/CentOS-pptp-setup.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="e9b8aadfb0e207b4455c445a4196d6520a38d8a5053c940fc0392313f2117054">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/CentOS-pptp-setup.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="05ec91720c802e69e879d8988492ff294904bc3abe659dce1787d965665700d3" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/CentOS-pptp-setup.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="b23ab284be3d1fe26b573849c53986d7fd01a92fd324c2da64e76001a9b484f4">Status</a></li>
         <li><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
     </ul>
 
@@ -1676,11 +2231,11 @@ port.</p>
 </svg>
 </a>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="e041120e9696cde8f37dec1a2a1deea5eb1942835e6af7dae2bbb4cc7aeb0aa5">Contact GitHub</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="bd91eda14e9c4bdaa855072247091bcc95a9cf4f2bb8906431d8a96ad8210f59">Pricing</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="19871101343bb9dcf134a8fba6d0346c29fd3fbe2168c1863338739096e8772f">API</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="248dfc20cf1d20debd02e4b6efc3117c16b153b3d44f65f57929b0caea967a41">Training</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/README.md&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="a02acfd980da9e6b7be148a5b721d07634c6ca0dddf233d6bb33fd79032c6529">Blog</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/CentOS-pptp-setup.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="67360a2606e8b7fdf77b957e2a6f92b062fd662d65f87498ad5172bbfd7f6e48">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/CentOS-pptp-setup.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="ac46058fbf7f889dfab4cb4efe6a11d7c9504d63106b37df00a27a005af4d53d">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/CentOS-pptp-setup.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="28bc9b265b9a6657ff802f5baced30010a19d1a6df2b820a1b70ec5517d782de">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/CentOS-pptp-setup.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="707f6f4f340ec9f0d8e244ead47d64b4de23933b220a199a1adb4375e2679c93">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/DanylZhang/VPS/blob/master/CentOS-pptp-setup.sh&quot;,&quot;user_id&quot;:90707164}}" data-hydro-click-hmac="43cf333dd8639db281c8908cbc643989ebf60f97f9f716a4d340a49b7facec47">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
     </ul>
   </div>
